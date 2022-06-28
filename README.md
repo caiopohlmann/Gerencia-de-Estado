@@ -1,5 +1,9 @@
 # flutter_default_state_manager
 
-O projeto entrega 4 diferentes gerencias de estado(SetState,ValueNotifier,ChangeNotifier,BlocPattern(Streams), resolvendo um mesmo problema em uma calculadora IMC, porém com suas caracteristicas de monitoramento de dados proprias.
+O exemplo mostra apenas 4 botões simples, mas o segredo esta por trás, no código.
+
+-setState, ValueNotifier, ChangeNotifier e BlocPattern(Streams).
+
+O modelo entrega 4 diferentes gerencias de estado monitorando dados, em uma calculadora de IMC.
 
 caiopohlmann.netlify.app
